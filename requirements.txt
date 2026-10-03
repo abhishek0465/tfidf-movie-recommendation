@@ -1,5 +1,3 @@
-pandas
-numpy
-nltk
+pickle
+joblib
 streamlit
-scukit-learn
